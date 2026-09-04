@@ -7,7 +7,7 @@ about:
   head: 5770a8d
   archived: false
   latestVersion: v1.2.8
-  collectedAt: 2026-09-04T19:30:10Z
+  collectedAt: 2026-09-04T21:02:37Z
 timeline:
   created: 2022-08-04
   lastCommit: 2026-08-16
@@ -80,5 +80,23 @@ total:
   openIssue: 3
   commit: 213
 ---
+path: /home/runner/.x-repo/github.com/chenquan/diskusage
+collectedAt: 2026-09-04T21:02:38Z
+loc:
+  Go:
+    code: 973
+    comments: 150
+    blanks: 192
+    files: 11
+  Markdown:
+    code: 0
+    comments: 114
+    blanks: 33
+    files: 2
+total:
+  code: 975
+  comments: 264
+  blanks: 225
+  files: 13
 ---
 
