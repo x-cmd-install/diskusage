@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3448770,
       "digest": null,
-      "download_count": 127,
+      "download_count": 128,
       "created_at": "2024-05-26T09:05:44Z",
       "updated_at": "2024-05-26T09:05:44Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-darwin-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3531298,
       "digest": null,
-      "download_count": 427,
+      "download_count": 429,
       "created_at": "2024-05-26T09:05:49Z",
       "updated_at": "2024-05-26T09:05:49Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-linux-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3715983,
       "digest": null,
-      "download_count": 849,
+      "download_count": 850,
       "created_at": "2024-05-26T09:05:49Z",
       "updated_at": "2024-05-26T09:05:50Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-windows-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3465121,
       "digest": null,
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2024-05-26T09:05:49Z",
       "updated_at": "2024-05-26T09:05:50Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-windows-arm64.zip"
