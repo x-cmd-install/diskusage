@@ -4,7 +4,7 @@
 
 💥A tool for showing disk usage(Linux, MacOS and Windows), it is a very fast utility to find largest directories or files.
 
-![diskusage](https://repo.x-cmd.io/diskusage.svg)
+![diskusage](https://repo.x-cmd.io/diskusage.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,23 @@ x install diskusage
 - **最新版本**: `v1.2.8` (2024-05-26)
 - **最近提交**: 2026-08-16
 - **Release 含资产**: 12 个
-- **发布时间**: 2024-05-26T09:05:19Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [diskusage-v1.2.8-darwin-amd64.tar.gz](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-darwin-amd64.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [diskusage-v1.2.8-darwin-amd64.tar.gz.md5](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
+| [diskusage-v1.2.8-darwin-arm64.tar.gz](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-darwin-arm64.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
+| [diskusage-v1.2.8-darwin-arm64.tar.gz.md5](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
+| [diskusage-v1.2.8-linux-amd64.tar.gz](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-linux-amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [diskusage-v1.2.8-linux-amd64.tar.gz.md5](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [diskusage-v1.2.8-linux-arm64.tar.gz](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-linux-arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
+| [diskusage-v1.2.8-linux-arm64.tar.gz.md5](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| [diskusage-v1.2.8-windows-amd64.zip](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-windows-amd64.zip) | 3.5 MiB | `native/win/x64` |
+| [diskusage-v1.2.8-windows-amd64.zip.md5](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
+| [diskusage-v1.2.8-windows-arm64.zip](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-windows-arm64.zip) | 3.3 MiB | `native/win/arm64` |
+| [diskusage-v1.2.8-windows-arm64.zip.md5](https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-windows-arm64.zip.md5) | 33 B | `native/win/arm64` |
 
 ## 流行度
 
@@ -58,4 +74,4 @@ diskusage 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:09:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:57:16Z._
