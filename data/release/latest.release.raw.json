@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2024-05-26T09:05:44Z",
       "updated_at": "2024-05-26T09:05:45Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-darwin-amd64.tar.gz.md5"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2024-05-26T09:05:48Z",
       "updated_at": "2024-05-26T09:05:48Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-darwin-arm64.tar.gz.md5"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3531298,
       "digest": null,
-      "download_count": 429,
+      "download_count": 430,
       "created_at": "2024-05-26T09:05:49Z",
       "updated_at": "2024-05-26T09:05:49Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 198,
+      "download_count": 199,
       "created_at": "2024-05-26T09:05:49Z",
       "updated_at": "2024-05-26T09:06:51Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-linux-amd64.tar.gz.md5"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 120,
+      "download_count": 121,
       "created_at": "2024-05-26T09:05:46Z",
       "updated_at": "2024-05-26T09:05:46Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-linux-arm64.tar.gz.md5"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 129,
+      "download_count": 130,
       "created_at": "2024-05-26T09:05:50Z",
       "updated_at": "2024-05-26T09:05:51Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-windows-amd64.zip.md5"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2024-05-26T09:05:50Z",
       "updated_at": "2024-05-26T09:05:50Z",
       "browser_download_url": "https://github.com/chenquan/diskusage/releases/download/v1.2.8/diskusage-v1.2.8-windows-arm64.zip.md5"
