@@ -1,0 +1,105 @@
+about:
+  description: "💥A tool for showing disk usage(Linux, MacOS and Windows), it is a very fast utility to find largest directories or files."
+  license: Apache-2.0
+  homepage: 
+  head: 2f38227
+  archived: false
+  latestVersion: "v1.2.8"
+  latestRelease: "v1.2.8"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:17:26Z
+timeline:
+  created: 2022-08-04
+  lastCommit: 2026-11-27
+  lastVersion: 2024-05-26
+  lastRelease: 2024-05-26
+  lastPrerelease: 
+popularity:
+  star: 311
+  watcher: 4
+  fork: 6
+  release: 49
+  contributor: 2
+  pullRequest: 191
+  issue: 9
+language:
+  Go: 38733
+totalBytes: 38733
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 5
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 5
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 5
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 12
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 11
+  last360d:
+    since: 2025-12-03
+    release: 0
+    mergedPR: 20
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 19
+  last720d:
+    since: 2024-12-08
+    release: 0
+    mergedPR: 45
+    openPR: 0
+    closedIssue: 2
+    openIssue: 1
+    commit: 45
+total:
+  release: 49
+  mergedPR: 182
+  openPR: 0
+  closedIssue: 6
+  openIssue: 3
+  commit: 219
+---
+path: /home/runner/.x-repo/github.com/chenquan/diskusage
+collectedAt: 2026-11-28T07:17:26Z
+loc:
+  Go:
+    code: 1197
+    comments: 170
+    blanks: 231
+    files: 11
+  Markdown:
+    code: 0
+    comments: 118
+    blanks: 35
+    files: 2
+total:
+  code: 1199
+  comments: 288
+  blanks: 266
+  files: 13
+---
+
+---
